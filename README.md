@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dart programming: the IndexOutOfRangeException. The `bug.dart` file contains code that attempts to access an element in a list using an invalid index, resulting in the exception.  The `bugSolution.dart` file provides a solution to avoid this error.
